@@ -45,7 +45,8 @@ screenshots/
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="818" height="323" alt="image" src="https://github.com/user-attachments/assets/6d12d9a8-5258-4625-92c1-9fc5738e1f8f" />
+
 
 ---
 
