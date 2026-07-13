@@ -1,0 +1,998 @@
+sheet,key,column,type,old,new
+"eConsent, eCOA & Sites",UI Improvements for Multi-Part and Composite Surveys,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Rule Instance Ranges and Custom Functions,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",eConsent Preview Role Selector,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Digital Delegation General Enhancements,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Replaceable Tokens for Library Surveys,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Customizable End Status Labels,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Authenticated Discovery Endpoint for Inbound API,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",iOS 26 Support,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Study-Level Site Connect Document Auto File Override (navigation change only),,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",eCOA Assigned Access Permisssions,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",eCOA Custom Site Roles,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Study Archival Automated Reattempts,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",System Accessibility Enhancements,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Linking In-Person Study to Existing Account,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Handling Removed Sites,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Clearer Reporting Outage Information,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Summary of Change Character Validation,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Compliance Dashboard,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Study Lifecycle Action: Change to Active,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",PI Approval Workflow Available in eBinder Upload,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Survey Schedule and Compliance Enhancements,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",CTMS Address Book for Invoicing,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Compliance Schedule View,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Group Display Order,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",CTMS Visit Calendar General Enhancements,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",26R2 Feature Event Audits,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Participant ID Instructions,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",CTMS PDF Invoice Generation,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Populate QSCATID for Multi-Part and Composite Survey Scores,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Reason for Rejection Fields on eSignature Workflows,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Bookmarks and Hyperlinks in EOSM and SDS,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Improved MyVeeva Access During Regional Outages,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Visual Analog Scale (VAS) Enhancements,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",CTMS Schedule Builder,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Support for Multiple Caregivers,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Collection Document Enhancements,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",CTMS Chargemasters and Charge Codes,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",26R2 Translations and New Languages,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Enhanced Diary UI for Required Surveys,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",CTMS Central Activity Library,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Reusable Survey Translation Export and Import,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Survey Schedule Display Order,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Read & Understand History Report Refresh,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Dynamic Delegation Acceptance Participants,,Record Added,,Entire Record Added
+"eConsent, eCOA & Sites",Site Investigator Data Review and Signature,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Multi-Part Surveys,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Support for Attachment Uploads in eClinRO Surveys,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",eCOA Vault Layout Update - Study Country Creation,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Site Staff and External User Pages Refresh,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Survey Library Image Management Enhancements,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Data Transfer Credential Locking Prevention,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Automated Study Design Specification Generation,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Site Connect Automatic Document Filing,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Sponsor-Controlled Deployment,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Targeted Data Changes,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Activity Fee Override,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Composite Surveys,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Send a Copy of a Consent Form,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Enhanced Survey-Based Notification Tokens,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",UAT Time Travel,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",General Usability and UI/UX Enhancements,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Site Notification Emails Language Changes,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Rule-Triggered Data Transfer to Veeva EDC,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Digital Financial Disclosure Forms,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Cross-Question Validations,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Redesigned Digital Delegation Log,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Study Budget: Costs and Expenses,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Notification Digests for Sites and Participants,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Optional Site Signature,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Visit Calendar,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",26R1 Feature Event Audits,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",eConsent Preview Link Expiration,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Site Timezone for Site Activities,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",Moving Completed Surveys,,Record Removed,Entire Record Removed,
+"eConsent, eCOA & Sites",CTMS General Enhancements,Feature Description,Modified,"This feature includes general enhancements to improve the overall CTMS user experience. Some of the notable highlights are listed below.
+- The Launch Editor button is updated to Schedule Builder.
+- The Edit Participant Fees label is updated to Edit Fee Amounts.
+- The Count column is updated to Usage when creating a billable item from a site fee.","This feature includes the following general enhancements to CTMS:
+- Overhead and Withholding fields can accommodate up to two decimal spaces.
+- When a study schedule is present on a study, the Visits tab becomes the focus when viewing a Participant record.
+- When a budget is finalized, SiteVault will automatically recalculate billable items for visits completed after the budget's effective date. Visits with invoiced or paid items are skipped.
+- When an expense plan is finalized, SiteVault will recalculate payable items for visit completed after the Expense Plan's effective date. Visits with paid or voided items are skipped."
+"eConsent, eCOA & Sites",CTMS General Enhancements,GxP Risk,Modified,Low,Medium
+Veeva Vault RIA,Enhanced Create Report Page,,Record Added,,Entire Record Added
+Veeva Vault RIA,Publishing Validation Results Help Field,,Record Added,,Entire Record Added
+Veeva Vault RIA,Stability Spec Execution: No Notification for Missing Batch,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Inbox Enhancements: Edit Document Type,,Record Added,,Entire Record Added
+Veeva Vault RIA,Exclude Reporter Information by Destination on CIOMS I Forms,,Record Added,,Entire Record Added
+Veeva Vault RIA,Configurable Event Reported Verbatim on Import,,Record Added,,Entire Record Added
+Veeva Vault RIA,References in SCP UI,,Record Added,,Entire Record Added
+Veeva Vault RIA,Launch Collaborative Authoring from Link,,Record Added,,Entire Record Added
+Veeva Vault RIA,Active Dossier: Exclude Submission Country from Generation,,Record Added,,Entire Record Added
+Veeva Vault RIA,Bitmask Field,,Record Added,,Entire Record Added
+Veeva Vault RIA,Display Preferred Affiliation in OpenData Clinical Details,,Record Added,,Entire Record Added
+Veeva Vault RIA,Enhanced E2B Generation Warning Notifications,,Record Added,,Entire Record Added
+Veeva Vault RIA,Fee Schedule Builder: Site Level,,Record Added,,Entire Record Added
+Veeva Vault RIA,Test Authoring Interface Experience Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,PVA Effective Date Automation,,Record Added,,Entire Record Added
+Veeva Vault RIA,Human-in-the-Loop (HITL) for Actions,,Record Added,,Entire Record Added
+Veeva Vault RIA,Process Navigator Enhancement: Support None Operator in Dynamic Document Associations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Cascade DCC Roles to Documents on Task Reassignment,,Record Added,,Entire Record Added
+Veeva Vault RIA,Query Agent,,Record Added,,Entire Record Added
+Veeva Vault RIA,Invalid & Special Situation Case Promotion,,Record Added,,Entire Record Added
+Veeva Vault RIA,Record Migration Mode for Delete Operations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Prevent Document Reconciliation on Non-Connected Sites,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety-EDC Connection: Combine Reporter & Sender Comments for Multi-Event Follow-Up Cases,,Record Added,,Entire Record Added
+Veeva Vault RIA,Specify Reply-to Value for PVA Distribution Emails,,Record Added,,Entire Record Added
+Veeva Vault RIA,Scientific Statements: Extend Scope of Auto-Approve Statements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Clinical Operations-EDC Connection: Improved Error Handling for Protocol Deviations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Scientific Statements: Auto-Linking in Readiness Panel,,Record Added,,Entire Record Added
+Veeva Vault RIA,Validation Criteria: EMA Identifiable Patient Updates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Global Directory to OpenData Clinical Matching,,Record Added,,Entire Record Added
+Veeva Vault RIA,Case Compare: MedDRA Preferred Term Matching,,Record Added,,Entire Record Added
+Veeva Vault RIA,Clinical Operations-EDC Connection: Support Repeating Item Groups on Procedures,,Record Added,,Entire Record Added
+Veeva Vault RIA,Blind Isolation: Simplified Japan Registration Unblinding,,Record Added,,Entire Record Added
+Veeva Vault RIA,Relative Date Filters in Jobs,,Record Added,,Entire Record Added
+Veeva Vault RIA,Dashboards: Long Text Dialogs,,Record Added,,Entire Record Added
+Veeva Vault RIA,Wizard Updates for Enhanced Handling of Local Differences,,Record Added,,Entire Record Added
+Veeva Vault RIA,Test Execution: Updated Exception Icon Hover Display,,Record Added,,Entire Record Added
+Veeva Vault RIA,MLR: Improved Similarity Scores,,Record Added,,Entire Record Added
+Veeva Vault RIA,Checklists: Dynamic Questions,,Record Added,,Entire Record Added
+Veeva Vault RIA,Direct Data API: Additional Document Metadata in Workflow Extracts,,Record Added,,Entire Record Added
+Veeva Vault RIA,Clinical Operations-EDC Connection: Additive SDV,,Record Added,,Entire Record Added
+Veeva Vault RIA,Active Dossier Population for Activities with No Submission,,Record Added,,Entire Record Added
+Veeva Vault RIA,Audit Room: Configurable Lifecycle States,,Record Added,,Entire Record Added
+Veeva Vault RIA,Empty Section Indicator Scalability Improvement,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety Deletion Logs,,Record Added,,Entire Record Added
+Veeva Vault RIA,Product Browser: Allow Multiple Trade Names,,Record Added,,Entire Record Added
+Veeva Vault RIA,Print Label: Label Definition is Searchable,,Record Added,,Entire Record Added
+Veeva Vault RIA,New Clinical Operations-Vault CRM Connection,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical-CRM Connection: Approved Email,,Record Added,,Entire Record Added
+Veeva Vault RIA,Create Related Record: Copy Custom Fields for Referenced Records,,Record Added,,Entire Record Added
+Veeva Vault RIA,Dynamic Styling for Claim-Based Link Annotations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Calculated Result Can Use Input Amount,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Notifications: Preview Email,,Record Added,,Entire Record Added
+Veeva Vault RIA,Submissions Archive Scalability Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,New Case Management User Interface,,Record Added,,Entire Record Added
+Veeva Vault RIA,Weekly Signal Review Scheduling,,Record Added,,Entire Record Added
+Veeva Vault RIA,Paste Lists into Text Filters,,Record Added,,Entire Record Added
+Veeva Vault RIA,Quality-Safety Connection: Promotion Status,,Record Added,,Entire Record Added
+Veeva Vault RIA,Block Milestone Rollup Dates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Claims: Deep Delete,,Record Added,,Entire Record Added
+Veeva Vault RIA,Layout Profile: Summary Dialog for Adding & Removing Users,,Record Added,,Entire Record Added
+Veeva Vault RIA,Fee Schedule Template Builder,,Record Added,,Entire Record Added
+Veeva Vault RIA,Add API Name to Document Type Details Object,,Record Added,,Entire Record Added
+Veeva Vault RIA,Process eMDR ACKs,,Record Added,,Entire Record Added
+Veeva Vault RIA,Claims: New References Section,,Record Added,,Entire Record Added
+Veeva Vault RIA,Ad Hoc Criteria,,Record Added,,Entire Record Added
+Veeva Vault RIA,Study Milestones in Process Monitor,,Record Added,,Entire Record Added
+Veeva Vault RIA,Create Inbound Interactions from Ingested Emails,,Record Added,,Entire Record Added
+Veeva Vault RIA,Fast Search,,Record Added,,Entire Record Added
+Veeva Vault RIA,Support Multi-Object Reference Fields in Document Report Formulas,,Record Added,,Entire Record Added
+Veeva Vault RIA,MIR Device Form Validations,,Record Added,,Entire Record Added
+Veeva Vault RIA,FDA FAERS E2B(R3) Primary IND Selection,,Record Added,,Entire Record Added
+Veeva Vault RIA,Show Report Formula Fields as a Percentage,,Record Added,,Entire Record Added
+Veeva Vault RIA,Complaint Email Ingestion: Support for MedTech Complaint Intake Object Type,,Record Added,,Entire Record Added
+Veeva Vault RIA,Report Usage,,Record Added,,Entire Record Added
+Veeva Vault RIA,Extract Proposed Active Dossier Relationships for Registrations: Enablement Update,,Record Added,,Entire Record Added
+Veeva Vault RIA,Test Definition & Spec Data: Updated Formatting Options Validation Method,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Change Control: Unlink Document Change Request & Periodic Review,,Record Added,,Entire Record Added
+Veeva Vault RIA,Local Language Name & Address Details in OpenData Clinical,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Control Homepage Enhancement: Improve Object Reference Field Value Selection in Filter Criteria,,Record Added,,Entire Record Added
+Veeva Vault RIA,eCTD 4.0 Viewing: Stylized Submission Unit XML,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical: Metrics in Portals,,Record Added,,Entire Record Added
+Veeva Vault RIA,Update Email Details after Document View,,Record Added,,Entire Record Added
+Veeva Vault RIA,MLR: Reviewer Queue,,Record Added,,Entire Record Added
+Veeva Vault RIA,26R2 Safety Suite Standardization,,Record Added,,Entire Record Added
+Veeva Vault RIA,Where Used Object Action,,Record Added,,Entire Record Added
+Veeva Vault RIA,Packages Support for Record Attachments & Attachment Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,Clinical Operations-EDC Connection: Limit Updates to Sites for Connected Studies,,Record Added,,Entire Record Added
+Veeva Vault RIA,Create Related Record: Validation Updates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Display Application Configurations by Enabled Application,,Record Added,,Entire Record Added
+Veeva Vault RIA,Notifications: Remove Multiple Email Addresses from Suppression List,,Record Added,,Entire Record Added
+Veeva Vault RIA,VeevaID Contextual Help for Personal Detail Updates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Specify Start Date for Multi-Agreement Activities,,Record Added,,Entire Record Added
+Veeva Vault RIA,Active Dossier: Support for Tracking Vaccines & Injectables,,Record Added,,Entire Record Added
+Veeva Vault RIA,Validation Criteria: Inactivate NMPA.F.r.1-2,,Record Added,,Entire Record Added
+Veeva Vault RIA,Bring Your Own Model: Google Gemini Support,,Record Added,,Entire Record Added
+Veeva Vault RIA,Validation Criteria: MFDS Validation Improvements for Device Products,,Record Added,,Entire Record Added
+Veeva Vault RIA,Agent Configuration Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Replace User Association,,Record Added,,Entire Record Added
+Veeva Vault RIA,Email Addresses for Manufacturer Sites,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Change Request: Add Target Document Owner,,Record Added,,Entire Record Added
+Veeva Vault RIA,Milestone Study Country & Site Hardening,,Record Added,,Entire Record Added
+Veeva Vault RIA,View E2B Readable Renditions in Vault,,Record Added,,Entire Record Added
+Veeva Vault RIA,NMPA Validation Criteria: Localize G.K.2.2 and H.1 Validations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety-RIM Connection: New IDMP MPID Field Mapping,,Record Added,,Entire Record Added
+Veeva Vault RIA,PVA Periodic Review,,Record Added,,Entire Record Added
+Veeva Vault RIA,Audit Room: Multiple Scribe Notes,,Record Added,,Entire Record Added
+Veeva Vault RIA,Device Agency for EU Countries,,Record Added,,Entire Record Added
+Veeva Vault RIA,FDA Summary Type Reporting Rules Automation,,Record Added,,Entire Record Added
+Veeva Vault RIA,Test Execution: Optional Expected Amount,,Record Added,,Entire Record Added
+Veeva Vault RIA,Japan Rules-Based Narratives,,Record Added,,Entire Record Added
+Veeva Vault RIA,Clinical Operations-EDC Connection: Query Metric for Site Connect Study Plan,,Record Added,,Entire Record Added
+Veeva Vault RIA,Local Case Resync,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical-CRM Connection: Populate Inquiry’s Preferred Contact Information on Case,,Record Added,,Entire Record Added
+Veeva Vault RIA,Populate Validation Viewer Role on Validation Management Records,,Record Added,,Entire Record Added
+Veeva Vault RIA,Vault AI UI Minor Update,,Record Added,,Entire Record Added
+Veeva Vault RIA,Support for User Groups in Registration Verification Workflow,,Record Added,,Entire Record Added
+Veeva Vault RIA,Generate Payable Items Supports Multi-Record Workflow,,Record Added,,Entire Record Added
+Veeva Vault RIA,Include Current Day in the Study Document Audit Export,,Record Added,,Entire Record Added
+Veeva Vault RIA,Validate Action on US Registrations Using API,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety-EDC Connection: Apply Cause of Death Details Only to Death-Related SAEs,,Record Added,,Entire Record Added
+Veeva Vault RIA,Optional Safety Distribution Acknowledgment,,Record Added,,Entire Record Added
+Veeva Vault RIA,Case Validation: Masked and Blinded Data,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety Rules Troubleshooting Tool for Localized Case,,Record Added,,Entire Record Added
+Veeva Vault RIA,EDLs: Consistent Hierarchy Viewer,,Record Added,,Entire Record Added
+Veeva Vault RIA,Enhanced Logic Operators for Signal Alerts,,Record Added,,Entire Record Added
+Veeva Vault RIA,FDA MedWatch 3500A: September 2025 Version,,Record Added,,Entire Record Added
+Veeva Vault RIA,Agent Workflow Task Completion,,Record Added,,Entire Record Added
+Veeva Vault RIA,Improved Postmarket Combination Product Management,,Record Added,,Entire Record Added
+Veeva Vault RIA,EUDAMED UDI Submission Generation Restricted to Supported Languages,,Record Added,,Entire Record Added
+Veeva Vault RIA,Automatic On-Demand Validation for Submission Validation Version Changes,,Record Added,,Entire Record Added
+Veeva Vault RIA,Responsive UI,,Record Added,,Entire Record Added
+Veeva Vault RIA,Japan Reporting: Cross Reporting Registration Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Process Navigator Enhancement: Improve Object Reference Field Value Selection,,Record Added,,Entire Record Added
+Veeva Vault RIA,Improved Document Viewer,,Record Added,,Entire Record Added
+Veeva Vault RIA,Copy Enhancements for Activities & Protocols,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Notifications: Complaint Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Reason for Change: Support for Test Plan & Effectiveness Check,,Record Added,,Entire Record Added
+Veeva Vault RIA,Latest Case Version Support,,Record Added,,Entire Record Added
+Veeva Vault RIA,Control Binding for Object Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,Secure DTD Extended to Swissmedic EMA E2B Submissions,,Record Added,,Entire Record Added
+Veeva Vault RIA,VPS: Configurable Data Mapping,,Record Added,,Entire Record Added
+Veeva Vault RIA,Create Related Records: High-Volume Data Support,,Record Added,,Entire Record Added
+Veeva Vault RIA,Monitoring Event Seeding Respects Previous Monitoring Event of Same Content Type,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Notifications: Alternate Communication Languages,,Record Added,,Entire Record Added
+Veeva Vault RIA,Taiwan eCTD 3.2 (TW 2.1) DTD 2.0,,Record Added,,Entire Record Added
+Veeva Vault RIA,Signal Individual Case Review for SafetyDocs,,Record Added,,Entire Record Added
+Veeva Vault RIA,Japan Reporting: Improved Validations for Blinded Product Submissions,,Record Added,,Entire Record Added
+Veeva Vault RIA,Add/Remove Responses Dialog Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety PBRER Case Listing for Summary Tabulation of ADR,,Record Added,,Entire Record Added
+Veeva Vault RIA,Complaint Agent: Medtech Complaints,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Version Compare Agent,,Record Added,,Entire Record Added
+Veeva Vault RIA,Prevent Creation of New Adobe Formatted Outputs,,Record Added,,Entire Record Added
+Veeva Vault RIA,Create Event Details: Improved Filtering,,Record Added,,Entire Record Added
+Veeva Vault RIA,Vault AI Enablement,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety-EDC Connection: Retain Primary Designation for Multi-Event Cases,,Record Added,,Entire Record Added
+Veeva Vault RIA,Apply Default Filter for Owning Site,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Response Collaboration: Inspection Requests,,Record Added,,Entire Record Added
+Veeva Vault RIA,Add Description to Report Formula Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,Allow Disabling of Event Change Action Values,,Record Added,,Entire Record Added
+Veeva Vault RIA,Qualification Support for LIMS & Batch Release,,Record Added,,Entire Record Added
+Veeva Vault RIA,Link Packaging to MP-Registration Bulk Action,,Record Added,,Entire Record Added
+Veeva Vault RIA,MedDRA Query Scope Filtering,,Record Added,,Entire Record Added
+Veeva Vault RIA,Activate the Safety Monthly Maintenance Job,,Record Added,,Entire Record Added
+Veeva Vault RIA,Curriculum Completion Percentage Update,,Record Added,,Entire Record Added
+Veeva Vault RIA,Active Dossier: Enhanced Metadata Export,,Record Added,,Entire Record Added
+Veeva Vault RIA,Qualification Check for Market-Ship Decisions,,Record Added,,Entire Record Added
+Veeva Vault RIA,Spec Data Builder: Option to Edit Fields on Sample Action,,Record Added,,Entire Record Added
+Veeva Vault RIA,Additive SDV Supported in Monitoring Event Subject Visit Seeding Logic,,Record Added,,Entire Record Added
+Veeva Vault RIA,Assets & Consumables Standardization,,Record Added,,Entire Record Added
+Veeva Vault RIA,Interval Tabulations for DSUR,,Record Added,,Entire Record Added
+Veeva Vault RIA,Reduced Testing: Obsolete Field & Object Inactivation,,Record Added,,Entire Record Added
+Veeva Vault RIA,EDL Override Support for Site Connect,,Record Added,,Entire Record Added
+Veeva Vault RIA,Prevent Modifications on Archive Snapshot Documents,,Record Added,,Entire Record Added
+Veeva Vault RIA,Primary Country for OpenData Clinical Investigators,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical: CLM Slide Comparison User Interface,,Record Added,,Entire Record Added
+Veeva Vault RIA,Claims: Auto-Linking in Readiness Panel,,Record Added,,Entire Record Added
+Veeva Vault RIA,Support Document Title in Station Manager,,Record Added,,Entire Record Added
+Veeva Vault RIA,Critical to Quality (CtQ) Factors Support for RBQM,,Record Added,,Entire Record Added
+Veeva Vault RIA,Quality-RIM Connection: Enhanced Change Control for Materials,,Record Added,,Entire Record Added
+Veeva Vault RIA,Clinical Trial Combination Products,,Record Added,,Entire Record Added
+Veeva Vault RIA,Daily Document Exchange Emails,,Record Added,,Entire Record Added
+Veeva Vault RIA,Reduced Testing,,Record Added,,Entire Record Added
+Veeva Vault RIA,Lab Test & Sample Field Updates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Unknown Formulation Product Verification,,Record Added,,Entire Record Added
+Veeva Vault RIA,Layout Rules: Automatic Controlled Field Management,,Record Added,,Entire Record Added
+Veeva Vault RIA,Set Reference Leaf Updates for eCTD 4.0 Support,,Record Added,,Entire Record Added
+Veeva Vault RIA,Web Intake Forms,,Record Added,,Entire Record Added
+Veeva Vault RIA,Validation Criteria: Use EVCTMPROD Destinations for EMA Validations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Copy Link Keyboard Shortcut,,Record Added,,Entire Record Added
+Veeva Vault RIA,Early-Finish Offsets,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety-EDC Connection: Transmission Profile per Connection,,Record Added,,Entire Record Added
+Veeva Vault RIA,"New Standard Milestone Types: First IP Received, Operational Closeouts & Sample Testing",,Record Added,,Entire Record Added
+Veeva Vault RIA,Item Creation Status Banner,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety-EDC Connection: Optimized Data Exchange,,Record Added,,Entire Record Added
+Veeva Vault RIA,Migration Package Validation Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Retains Testing,,Record Added,,Entire Record Added
+Veeva Vault RIA,Study Training Matrix Extract & Load,,Record Added,,Entire Record Added
+Veeva Vault RIA,PMDA: Combination Product Registration Variant Matching,,Record Added,,Entire Record Added
+Veeva Vault RIA,Active Dossier: Improved Uniqueness Key Calculation,,Record Added,,Entire Record Added
+Veeva Vault RIA,QRM: Create Risks from Existing Risk Assessment,,Record Added,,Entire Record Added
+Veeva Vault RIA,JSON Response Tool Type,,Record Added,,Entire Record Added
+Veeva Vault RIA,Aggregate Support of New Study Types,,Record Added,,Entire Record Added
+Veeva Vault RIA,New Application: Publications,,Record Added,,Entire Record Added
+Veeva Vault RIA,RIM-Clinical Operations Connection: Submission Tracking Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Collaboration Enhancement: Data Model Update,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical Product Agent,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Archive Job,,Record Added,,Entire Record Added
+Veeva Vault RIA,Claims: Remove Auto-Link on Initial Upload Flag,,Record Added,,Entire Record Added
+Veeva Vault RIA,Vault AI Metadata,,Record Added,,Entire Record Added
+Veeva Vault RIA,PSMF Request Management,,Record Added,,Entire Record Added
+Veeva Vault RIA,Copy Link for Records,,Record Added,,Entire Record Added
+Veeva Vault RIA,MedDRA Query Analysis for FAERS & VAERS,,Record Added,,Entire Record Added
+Veeva Vault RIA,PromoMats-CRM Connection: CLM Content Metrics,,Record Added,,Entire Record Added
+Veeva Vault RIA,My Study Team: Individual Learner Page View,,Record Added,,Entire Record Added
+Veeva Vault RIA,Lab Consumable Family Object Lifecycle,,Record Added,,Entire Record Added
+Veeva Vault RIA,Enhanced Expand All,,Record Added,,Entire Record Added
+Veeva Vault RIA,Ignore Non-Active Studies During Reporting Rules Evaluation,,Record Added,,Entire Record Added
+Veeva Vault RIA,Open Chart in New Tab,,Record Added,,Entire Record Added
+Veeva Vault RIA,NMPA Validation Criteria: Exclude External Products,,Record Added,,Entire Record Added
+Veeva Vault RIA,Exclude Inactive Users in Report Filters,,Record Added,,Entire Record Added
+Veeva Vault RIA,Collapse Disposition Header,,Record Added,,Entire Record Added
+Veeva Vault RIA,Workbench Pregnancy Annex 3 Report Set,,Record Added,,Entire Record Added
+Veeva Vault RIA,Timeout Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Signal Calculation Configuration Summary,,Record Added,,Entire Record Added
+Veeva Vault RIA,Stability Study: Date/Time Fields for Pull Window,,Record Added,,Entire Record Added
+Veeva Vault RIA,Market Specific Document Check,,Record Added,,Entire Record Added
+Veeva Vault RIA,Scientific Statements: Entry Criteria to Validate References Are in Steady State,,Record Added,,Entire Record Added
+Veeva Vault RIA,Dashboards: Embedded User Guidance,,Record Added,,Entire Record Added
+Veeva Vault RIA,Support for Investigators Without Site Affiliations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Geographic Assignment Rollout,,Record Added,,Entire Record Added
+Veeva Vault RIA,Tax Rates: Calculating Tax Rate Total Value,,Record Added,,Entire Record Added
+Veeva Vault RIA,Case Significance,,Record Added,,Entire Record Added
+Veeva Vault RIA,Make a Copy: Exclude Inactive Record Values,,Record Added,,Entire Record Added
+Veeva Vault RIA,Stability Study: Create Copy of Sample Plan & Spec Data,,Record Added,,Entire Record Added
+Veeva Vault RIA,Milestone Document Hardening,,Record Added,,Entire Record Added
+Veeva Vault RIA,FDA Reporting: Support for Individual Study Device Submissions,,Record Added,,Entire Record Added
+Veeva Vault RIA,Word Formatted Output: Support for GetRelatedRecords Formula,,Record Added,,Entire Record Added
+Veeva Vault RIA,Disposition Plan Autonumber Title,,Record Added,,Entire Record Added
+Veeva Vault RIA,RIM-Clinical Operations Connection: RIM Connection Stats,,Record Added,,Entire Record Added
+Veeva Vault RIA,Curriculum Due Dates,,Record Added,,Entire Record Added
+Veeva Vault RIA,PromoMats-CRM Connection: Approved Email,,Record Added,,Entire Record Added
+Veeva Vault RIA,Rights Manager,,Record Added,,Entire Record Added
+Veeva Vault RIA,Audit Room: Expanded Inspection Request Card,,Record Added,,Entire Record Added
+Veeva Vault RIA,Pre-Training Quiz,,Record Added,,Entire Record Added
+Veeva Vault RIA,Protocol Deviation Subject Visit Context Improvement,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Action Filtering,,Record Added,,Entire Record Added
+Veeva Vault RIA,PromoMats-CRM Connection: Document Transfer,,Record Added,,Entire Record Added
+Veeva Vault RIA,Multi-Market IDMP Data Model & Aggregation Updates,,Record Added,,Entire Record Added
+Veeva Vault RIA,MLR: Document Compare,,Record Added,,Entire Record Added
+Veeva Vault RIA,User License Warnings for SafetyDocs Documents,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical Timeline: Sorting & Unknown Dates,,Record Added,,Entire Record Added
+Veeva Vault RIA,PMDA Regulatory Comments Assistance,,Record Added,,Entire Record Added
+Veeva Vault RIA,Signal Review Scheduling,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Collaboration Checklists: Display Follow-Up Interface on Completed Checklists,,Record Added,,Entire Record Added
+Veeva Vault RIA,Vault No Longer Creates Gateway Profiles,,Record Added,,Entire Record Added
+Veeva Vault RIA,FDA FAERS E2B(R3): Replace Unsupported Characters,,Record Added,,Entire Record Added
+Veeva Vault RIA,Update Component Security on Name Field on User Role Setup (Case) Object,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical: CLM Publishing,,Record Added,,Entire Record Added
+Veeva Vault RIA,Enforce Atomic Security in Audit Logs,,Record Added,,Entire Record Added
+Veeva Vault RIA,Remove Reliance on Risk Library for Study Specific Risk Assessments,,Record Added,,Entire Record Added
+Veeva Vault RIA,Calculated Result Can Use Input Attributes,,Record Added,,Entire Record Added
+Veeva Vault RIA,Bulk Export Scalability Improvement,,Record Added,,Entire Record Added
+Veeva Vault RIA,QualityDocs & Station Manager Objects: Add Key Document Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Collaboration Enhancement: Display Veeva Quality Logo,,Record Added,,Entire Record Added
+Veeva Vault RIA,Support Workflow & Task Owner in Report Formula Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,Payments:Alternate Currency Rounding,,Record Added,,Entire Record Added
+Veeva Vault RIA,VPS: Concomitant Products & Related AER Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Scientific Statements: Deep Delete,,Record Added,,Entire Record Added
+Veeva Vault RIA,Layout Profiles Supported in Action Triggers,,Record Added,,Entire Record Added
+Veeva Vault RIA,Related Batch Application Section,,Record Added,,Entire Record Added
+Veeva Vault RIA,Quality-RIM Connection: Document Creation Triggers Outbound Job,,Record Added,,Entire Record Added
+Veeva Vault RIA,Design Data Builder: Chart Definitions,,Record Added,,Entire Record Added
+Veeva Vault RIA,Generate Draft PSMF PDF,,Record Added,,Entire Record Added
+Veeva Vault RIA,Download as PDF: Deduplicated Records in Related Join Object Sections,,Record Added,,Entire Record Added
+Veeva Vault RIA,Time Picker: Clear Invalid Input,,Record Added,,Entire Record Added
+Veeva Vault RIA,Complaint Agent & Deviation Agent: User Experience Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical-CRM Connection: CLM Content Metrics,,Record Added,,Entire Record Added
+Veeva Vault RIA,Enable Scientific Communication Platform UI in All MedComms Vaults,,Record Added,,Entire Record Added
+Veeva Vault RIA,Automatically Run Early Notification Rules on Case Promotion,,Record Added,,Entire Record Added
+Veeva Vault RIA,Additional LOD Picklist Value,,Record Added,,Entire Record Added
+Veeva Vault RIA,Study Content Protection Reevaluation,,Record Added,,Entire Record Added
+Veeva Vault RIA,EUDAMED XSD Version 3.0.30 Support,,Record Added,,Entire Record Added
+Veeva Vault RIA,VPS: Product Attributes Management,,Record Added,,Entire Record Added
+Veeva Vault RIA,Milestone Planning View Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Set OpenData ID in Record View Mode,,Record Added,,Entire Record Added
+Veeva Vault RIA,HACCP Flow Diagram: Display Risk Category Field as Clickable Link,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Change Control: Display Related Documents,,Record Added,,Entire Record Added
+Veeva Vault RIA,Standard FDA eMDR Transmission Profile Document Type,,Record Added,,Entire Record Added
+Veeva Vault RIA,HACCP Flow Diagram: Update to Label of Hazard Significance Filtering Option,,Record Added,,Entire Record Added
+Veeva Vault RIA,FDA E2B(R3) Relabeled to FDA FAERS E2B(R3),,Record Added,,Entire Record Added
+Veeva Vault RIA,Claims: Text Asset Auto-Linking Settings Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Prevent Automatic PSMF Logbook Generation,,Record Added,,Entire Record Added
+Veeva Vault RIA,Disclosures US Results: Add Notes & NA Explanations,,Record Added,,Entire Record Added
+Veeva Vault RIA,API Access Tokens,,Record Added,,Entire Record Added
+Veeva Vault RIA,Record Migration Mode Inheritance,,Record Added,,Entire Record Added
+Veeva Vault RIA,Added More Standard Fields for Study Phase,,Record Added,,Entire Record Added
+Veeva Vault RIA,MedDRA International Sort Order,,Record Added,,Entire Record Added
+Veeva Vault RIA,Non-Routine & Ad Hoc Sample Testing,,Record Added,,Entire Record Added
+Veeva Vault RIA,Print Disclosures & Save to Library,,Record Added,,Entire Record Added
+Veeva Vault RIA,HACCP Flow Diagram: Intermediate State for Connections,,Record Added,,Entire Record Added
+Veeva Vault RIA,Test Definition: Formatting Options Can Be Optional,,Record Added,,Entire Record Added
+Veeva Vault RIA,Inbox Item Data Archiving,,Record Added,,Entire Record Added
+Veeva Vault RIA,Active Dossier: Country Status Icon Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Study Training Matrix Snapshot,,Record Added,,Entire Record Added
+Veeva Vault RIA,MedDRA Upversion for Business Administration,,Record Added,,Entire Record Added
+Veeva Vault RIA,Collaborative Authoring: Increase Participant Limit for Automatic Mentioning,,Record Added,,Entire Record Added
+Veeva Vault RIA,UDI Submissions to GUDID,,Record Added,,Entire Record Added
+Veeva Vault RIA,Optional Due Dates for Matrix Training,,Record Added,,Entire Record Added
+Veeva Vault RIA,Signal Detection Plans: Data Model,,Record Added,,Entire Record Added
+Veeva Vault RIA,Audit Room: Publish Inspection Request from Any Lifecycle State,,Record Added,,Entire Record Added
+Veeva Vault RIA,Auto-Append STF,,Record Added,,Entire Record Added
+Veeva Vault RIA,Monitoring Event Follow Up Item Seeding Logic Updates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Vault AI Tab,,Record Added,,Entire Record Added
+Veeva Vault RIA,WHODrug Company Product Autocoding,,Record Added,,Entire Record Added
+Veeva Vault RIA,Connection Authorization Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Notifications: Support for Complaint Intake,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety-RIM Connection: Data Transfer Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Training & Study Training Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Study Training Matrix Builder Edit Menu Change,,Record Added,,Entire Record Added
+Veeva Vault RIA,Sticky Dashboard Totals,,Record Added,,Entire Record Added
+Veeva Vault RIA,Fee Schedule Templates: Cost Automation,,Record Added,,Entire Record Added
+Veeva Vault RIA,Claims Agent for PromoMats,,Record Added,,Entire Record Added
+Veeva Vault RIA,Enhanced Logging for MedInquiry Email Intake,,Record Added,,Entire Record Added
+Veeva Vault RIA,QRM: Manage Related Documents in Risk Builder,,Record Added,,Entire Record Added
+Veeva Vault RIA,Case Management UI: Timeline Panel,,Record Added,,Entire Record Added
+Veeva Vault RIA,Process Navigator: Support Ten Dynamic Document Association Criteria Rules,,Record Added,,Entire Record Added
+Veeva Vault RIA,Advanced Logic for Report Set Filters,,Record Added,,Entire Record Added
+Veeva Vault RIA,Dashboard Analysis with View Parameters,,Record Added,,Entire Record Added
+Veeva Vault RIA,Enhanced Aggregate Formulas,,Record Added,,Entire Record Added
+Veeva Vault RIA,Safety-EDC Connection: Respond to Form Sequence Number,,Record Added,,Entire Record Added
+Veeva Vault RIA,Partially Completed Follow-up Questionnaires,,Record Added,,Entire Record Added
+Veeva Vault RIA,Editable Standard Formatted Output Templates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Collaborative Authoring Logs for OAuth Errors,,Record Added,,Entire Record Added
+Veeva Vault RIA,Spec Execution: Initiated Date & Time,,Record Added,,Entire Record Added
+Veeva Vault RIA,Assess Local Activities Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Test Execution: Display Spec Criteria,,Record Added,,Entire Record Added
+Veeva Vault RIA,eCTD: Auto-On Redline Annotations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Intake Panel: Support for Additional Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,FDA Reporting: NullFlavor Export Updates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Copy Into Global Content Plans,,Record Added,,Entire Record Added
+Veeva Vault RIA,Prevent Lifecycle State Change When Error Occurs While Generating PSMF PDFs,,Record Added,,Entire Record Added
+Veeva Vault RIA,eMDR Device Form Validations,,Record Added,,Entire Record Added
+Veeva Vault RIA,Promote to Complaint Enhancement: Ignore Inactive Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,PromoMats: CLM Slide Comparison User Interface,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical-CRM Connection: Document Transfer,,Record Added,,Entire Record Added
+Veeva Vault RIA,Completion of E-Learning Completes Training Assignment,,Record Added,,Entire Record Added
+Veeva Vault RIA,Audit Room: Auto-Add Assignee to Fulfiller Role on Inspection Request,,Record Added,,Entire Record Added
+Veeva Vault RIA,Stability Study Field Update,,Record Added,,Entire Record Added
+Veeva Vault RIA,Process Monitor: Saved Results,,Record Added,,Entire Record Added
+Veeva Vault RIA,Download Document Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Configurable By Exception,,Record Added,,Entire Record Added
+Veeva Vault RIA,Quick Check Agent & Content Agent Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,TMF Quality Review,,Record Added,,Entire Record Added
+Veeva Vault RIA,Readability Updates to Rules Based Narratives Follow-up Summary,,Record Added,,Entire Record Added
+Veeva Vault RIA,Complaint Intake Follow-Up: Manual Processing,,Record Added,,Entire Record Added
+Veeva Vault RIA,Payments: Site Contract Tracking,,Record Added,,Entire Record Added
+Veeva Vault RIA,Save Report Sets to the Library,,Record Added,,Entire Record Added
+Veeva Vault RIA,Disclosures: Site List Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Spec Data Builder: Formatting Options Now Editable,,Record Added,,Entire Record Added
+Veeva Vault RIA,JSON Data Integrity,,Record Added,,Entire Record Added
+Veeva Vault RIA,Test Definition Input & Test Input: Amount Field Update,,Record Added,,Entire Record Added
+Veeva Vault RIA,Display Record Count for QMS Sections,,Record Added,,Entire Record Added
+Veeva Vault RIA,Custom Report Naming from Dashboards,,Record Added,,Entire Record Added
+Veeva Vault RIA,PromoMats: CLM Publishing,,Record Added,,Entire Record Added
+Veeva Vault RIA,Update Active Dossier from Country Decision Detail,,Record Added,,Entire Record Added
+Veeva Vault RIA,Clinical Operations-EDC Connection: Restricted Subject Visit Creation,,Record Added,,Entire Record Added
+Veeva Vault RIA,Prior Contact Information Relationship Optimization,,Record Added,,Entire Record Added
+Veeva Vault RIA,Improved Localization for Number Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,FDA Reporting: Unique Device Identifiers Update,,Record Added,,Entire Record Added
+Veeva Vault RIA,Periodic Review: Reassignment of Inactive Document Owner,,Record Added,,Entire Record Added
+Veeva Vault RIA,Site Connect UI Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,MedInquiry: Case Processing Agent,,Record Added,,Entire Record Added
+Veeva Vault RIA,Enhanced IDMP Support for UDI-DI,,Record Added,,Entire Record Added
+Veeva Vault RIA,Disclosures US Results: Outcome Measure Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Metrics in Portals,,Record Added,,Entire Record Added
+Veeva Vault RIA,Quality Relationships Panel Enhancement: Support for Archived Documents,,Record Added,,Entire Record Added
+Veeva Vault RIA,Remove Blind Protection for Investigator Causality,,Record Added,,Entire Record Added
+Veeva Vault RIA,Quiz Dynamic Sections,,Record Added,,Entire Record Added
+Veeva Vault RIA,Download Acknowledgment Details,,Record Added,,Entire Record Added
+Veeva Vault RIA,External Notifications: Support for Email Document Attachments,,Record Added,,Entire Record Added
+Veeva Vault RIA,Claims: Entry Criteria to Validate References Are in Steady State,,Record Added,,Entire Record Added
+Veeva Vault RIA,Show Input Name in Test Execution,,Record Added,,Entire Record Added
+Veeva Vault RIA,Transmission Profile Creation Limit Removed,,Record Added,,Entire Record Added
+Veeva Vault RIA,Monitoring Event Question Status Badges,,Record Added,,Entire Record Added
+Veeva Vault RIA,Validation Criteria: Failed Validation Error Handling,,Record Added,,Entire Record Added
+Veeva Vault RIA,Stability Study Builder,,Record Added,,Entire Record Added
+Veeva Vault RIA,Study Training-Clinical Operations Connection: Support for Cross-Domain Users,,Record Added,,Entire Record Added
+Veeva Vault RIA,Workbench PMDA Postmarket Aggregate Reports,,Record Added,,Entire Record Added
+Veeva Vault RIA,Vault Loader Performance Enhancements,,Record Added,,Entire Record Added
+Veeva Vault RIA,IDMP Output Record Purge,,Record Added,,Entire Record Added
+Veeva Vault RIA,VPS: Generate AER Snapshot,,Record Added,,Entire Record Added
+Veeva Vault RIA,Document Fields in Object Formula Fields,,Record Added,,Entire Record Added
+Veeva Vault RIA,Allow Marketing to Investigational (Same Agency) Reporting Scenario,,Record Added,,Entire Record Added
+Veeva Vault RIA,IMIC Literature Intake,,Record Added,,Entire Record Added
+Veeva Vault RIA,Support Localized Number Formatting for App Pages,,Record Added,,Entire Record Added
+Veeva Vault RIA,Update Training Assignments Job Performance Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,HAQ Response Automations: Default Fields on Response Document,,Record Added,,Entire Record Added
+Veeva Vault RIA,Quality-RIM Connection: Enhanced Change Control Integration Deleted RCI Enhancement,,Record Added,,Entire Record Added
+Veeva Vault RIA,VPS: Contact Information Improvements,,Record Added,,Entire Record Added
+Veeva Vault RIA,Complaint Contacts,,Record Added,,Entire Record Added
+Veeva Vault RIA,Query Profiler,,Record Added,,Entire Record Added
+Veeva Vault RIA,Medical: Rights Manager,,Record Added,,Entire Record Added
+Veeva Vault RIA,Process Monitor: Drill Down,,Record Added,,Entire Record Added
+Veeva Vault RIA,File Count Validation for Record Attachments,,Record Added,,Entire Record Added
+Veeva Vault RIA,Assign Training Requirement to Learner,,Record Added,,Entire Record Added
+Veeva Vault RIA,JP eCTD 4.0 Updates to CVs and OIDs (Tabulation & Analysis),,Record Added,,Entire Record Added
+Veeva Vault RIA,Narrative Agent: Custom Instructions,,Record Added,,Entire Record Added
+Veeva Vault RIA,Preview for Overlay & Signature Page Templates,,Record Added,,Entire Record Added
+Veeva Vault RIA,Upper Level of Quantification (ULOQ),,Record Added,,Entire Record Added
+Veeva Vault RIA,Disclosures Person & Organization Search & Fill,,Record Added,,Entire Record Added
+Veeva Vault RIA,Move CTN Setting Back to CTMS Settings,,Record Added,,Entire Record Added
+Veeva Vault RIA,EVDAS Data Requests & Automated Processing,,Record Added,,Entire Record Added
+Veeva Vault RIA,CTMS Transfer: Study Site Addresses,,Record Added,,Entire Record Added
+Veeva Vault RIA,Responsive UI for Safety,,Record Added,,Entire Record Added
+Veeva Vault RIA,Case Version Compare: Improved Record Matching,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Complaint Intake for MedTech,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Claims: Text Asset Auto-Linking Settings,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Reusable Report Sets,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Medical-CRM Connection: Country Integration,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Related Event Section: Display Gestures Based on User Permissions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Station Manager Activity Object Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Station Manager Support for iOS 26,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Transmission Reason Defaulting for Migrated Cases,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Delete CrossLink Document After Archival Snapshot,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Excel Copy/Paste,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Bulk Manage Requirements & Specifications,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,GCP Dispatch to Follow-Up Submissions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Proposed APQR-to-APQR Date Field Inheritance,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Keyboard Shortcuts & Navigation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Supplier Questionnaires: Follow-Up & Invite Respondents,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Delete Expired PAL,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Advanced Start Support for Multi-Record Object Workflows in Content Plan Viewer,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Deferred Domestic Processing: Localized Event Reported in Native Language,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,VeevaID Recent Activity,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Actual Date Offsets,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Bulk Translation Multi-File Import,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,OCR Limit Increases,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Study Training Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Custom Email Senders for Completed Survey Notification & Generate New Link,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Support for Product Management Service (PMS) Data Submission,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Default Basic Variable Name,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Automated Adjustment: Amount Override,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Email Body Section: Display Warning Message When Content Exceeds Character Limit,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Trend Charts: Regression Support for Stability,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Reason for Change: Support for Word Formatted Outputs,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,New Calculation Scope: All Tests with Same Root Parent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Set Lab Study Owner on Creation from Lab Study Design,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,eCTD 4.0 Archive & Viewing: Document Reuse Recurrence Handling,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Claims: Hierarchical Copy,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-EDC Connection: Improved User Error Messages,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clearer Error Handling When Generating PSMF PDFs,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Display as Simple for Complex Relationships,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Correspondence Email Processor,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,"Test Definition Builder: For Variation Result Inclusion, Auto-Select Dependent Results",,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Filter OpenData Clinical Investigators & Sites by OpenData ID,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,eCTD: Enhanced Support for Video/Audio Files,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Display Non-Current MedDRA-J Term,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Premarket Boxed Warning Detection for Quick Check Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Respect Default Values,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EUDAMED Submission Security,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Bulk Copy Issue to Multiple Subjects,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Case Approval Due Date,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enhance No Subjects Enrolled Trigger Logic to Include Deleted in CDMS Status,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,System Link RTSM Domain & Link Naming,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,WHODrug Global Chinese Browser,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Contact Search Dialog Sorting,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,My Team: Learner Compare & Initiate Changes,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Create Missing Record Action Usability Improvements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Execution Limit Update to 50 Tests,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Individual Case Routing Criteria Expression Requirements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,NMPA Validation Criteria Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Streamlined Import with Automated eCTD Data Population,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Word Formatted Output: Increased Rowset Limit,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Default Report Styling Template,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Content Plan Viewer Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Material Is a Required Field on Batch,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,South Korea Validation Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enhanced Reference Lookups,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Scientific Statements: Hierarchical Copy,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Scientific Communication Platform: User Interface Task Bar,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Case Promotion: Reportability Calculation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,RIM-PromoMats Connection: AdPromo Submission Performance Improvements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,eCOA-Clinical Operations Connection: Study Design Specification,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Download as PDF,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Checklist: Allow Other Participants in Checklist Workflows,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Calendar Date Report Filters,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Standardized Word Markup,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,New CrossLink Source Type,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Add Missing Parent from OpenData Clinical Site,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Compare: Hide Fields Not Applicable to Object Type,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Design Data Builder: Edit Starting Screen Field Values,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Adjustment to Action Trigger Behavior on User Records,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Support Up to 5 External Collaborators for Document External Collaboration,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Duplicate Detection Subject Matching for Clinical Trial Cases,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data Builder: Sample Plan Can Be Edited If Blank,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: General UI Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Scientific Statements: Auto-Linking by Object Type,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Validation Criteria: Assessments Require Products & Adverse Events (G.k.9.i.1),,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-EDC Connection: User-Friendly Error Messages,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Deep Linking to Training Requirements for Self Enrollment,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PMDA: Multiple Marketing Authorization Holder Automation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,VPS: Generate PDF & XML with a Single Action,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Organization Scalability Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Training Completions Grant Clinical Access,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Streamlined Multi-Vault Navigation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Optimized Record Detail Display,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Document Follow-Up Questionnaires,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Disclosures: Enhancements to Custom XML Generation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Updates to Styling of Registrations Wizards & Pages,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Code Relevant Products,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clinical Operations-EDC Connection: Visit Review Progress Indication,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Sample Result Entry Display Sample Name,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Vault Loader Support for No Triggers with Document Migration Mode,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Searchable Object Fields Admin UI Update,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Download Step & Discrepancy Attachments For Test Scripts,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Custom Sharing Rules on Reports,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,FDA E2B(R3): Primary Study Selection for Cross Reporting,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Trend Charts,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,QMS Change Related Object Lifecycle State Action: Allow Download of Failed Records,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Criteria Formula Field is Not Required,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Validation Criteria: Qualification Required When Reporter Is Primary,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Increase PSMF Logbook Record Limit,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,General Enhancements for Quick Check Agent & Content Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Document Scanner Improvements for Android Devices,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PSMF: Display Document Title in PDF Table of Contents,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enhanced Field Update Behavior for Document Creation Event Actions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,FDA eMDR Automated Site Report Numbering,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,New Fields in Active Dossier Viewer,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Add Product Families to Aggregate Reporting Groups: Data Model,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PVA: Defer Contact Entry,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Product Family Substances Sync Action,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quality Relationships Panel: Document Change Request Enhancement,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,FDA E2B(R3): IND Aggregate Reports,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Smart Page Detection for Boxed Warning Check in Quick Check Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,"Pagination, Column & Filter Limits",,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Claims and Modular Commenting Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Report Filter Operator: Not In,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Scientific Statements: Indication Available for Metadata,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Taiwan eCTD 3.2 Archive & Viewing (TW v2.1),,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Inbound Email Mapping for Case & Case Request,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Reviewer Comments on Disclosures,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,MHRA MIR (XML),,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Active Dossier: Update Global Records from Local Submission,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Claims: Indication Available for Metadata,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PromoMats: Secure Message via Approved Email,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Autofill Site Timezones from Global Directory,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Follow-up Case Compare: Alphabetical Sorting for Manual Match Selector,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Doctype Triggers,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Secure DTD for EMA E2B(R3),,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Record History Expansion,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-RIM Connection: Co-Packaged Product Constituents,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Generate FDA 1572,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Download as PDF: Export Audit Trail Entries Associated to Reason for Change Records,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Standard Formatted Output Updates for Site & Outreach Target Surveys,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data & Test Definition Builder: Enter Key Support,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Advanced ISI Extraction & Evaluation for Quick Check Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Updates to Styling of Initiate Response Guided Flow,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Allow User Entry for Unavailable OpenData Clinical Email,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Deterministic Aliquot Actions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data Builder: General UI Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,US eCTD 3.2 Validation Criteria 4.5,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Brand Team Group Management,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clinical Operations-EDC Connection: Flexible Visit Definitions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Roles & Responsibilities Usability Improvements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Entry Action Enhancement: Check & Close Multi-Document Change Control,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,External Collaboration: Send Steady State Document to External Collaborator on Workflow Completion,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PVA: MAA Document Required for Distribution,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,VPS: eMDR Follow-Up Reporting Enhancement,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,New Study Field for Pediatric Studies,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Remove Limit on Product & Country Document Fields,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Study Site Plan (Data Model Only),,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Including Results for Sample Result Entry Variations,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Updated Brand & Country Page Layouts,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,LATAM E2B(R3) Relabeled to Vigiflow E2B(R3),,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Save Removal Preference for Expected Documents,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Auto-Scroll to New Result or Input Record,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Improvements to Import to Inbox Item,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Stability Study Data Migration,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,VPS: EU MIR 7.3.1 Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-Clinical Operations Connection: Inactivate Integration Record,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,China eCTD 3.2 Archive & Viewing (CN v1.1),,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Process Monitor: Export Records,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Copy & Paste Table as Plain Text for Rich Text Fields,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Infinite Scroll on Dashboard Data,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Generate Document from Record: Workflow Job Step,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Generate TRIA on Adding or Removing Document,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,RIM-Clinical Operations Connection: Update to CrossLink Trigger Logic,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,UI Enhancements for the Study Enrollment Status Graph,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,New Generate Risk Mitigation Actions Per Study Job,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Add Collaborate Externally Field to Impact Assessment & Change Action Objects,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Failed Safety Distributions Visible in Site Home,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Auto-Generate Domestic Localized Parent Information,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EU MIR 7.3.1: Export Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-RIM Connection: Create Product Substances,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Standard Fields Updates for Validation Management,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Recruitment Planning: Additional Metrics Over Time,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,"United States eCTD 4.0 Archive & Viewing (US 1.7, 1.8)",,Record Removed,Entire Record Removed,
+Veeva Vault RIA,TMF Transfer: Multi-Study Documents,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Document Intake Highlighter: Usability Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,High-Volume Product Registration Support,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Archive Readiness Dashboard,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clinical User Ability to Reject Document Action in Site Home Removed,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Medical: Provision Standard Component Document Relationship Type,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Always Open Multilingual MedDRA Browser in English,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EUDAMED XSD Version 3.0.28 Support,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Medical: Secure Message via Approved Email,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Reason for Change Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Auto-Suppress Weblinks & Mailto Links on Published Documents,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Auto-Populate Last PSV Date on Location,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-EDC Connection: Improvements & Additional Mapping Support,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Fees Support Multiple Subject Groups of the Same Type,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Integration to PubMed,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Record Check & Record Suggestions: All Search Terms,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Document Version Process Reporting,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-EDC Connection: Support Case Product Type Changes,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,VPS: Reportability Assessment Enhancement,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PMDA MHLW Paper Form: Export Sender's Organization,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Company Product Match Verification for Deprecated Product Registrations,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Subgrouping for Targeted Analysis,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data Builder: Export List of Unsupported Setup,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Transmission Document Generation Status,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Link Evaluator Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Training Change Request: Create Matrix Records,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Follow-up Case Compare: Always Promote Non-Displayed Data,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Product Quality Complaint Assessments,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quality-RIM Connection: Ensure QMS RCI & RAI Update Correctly,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Disclosures: EU Initial CTA Form with Prepopulation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Inactive Classification Filtering for Site Packages,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,New Permission to Access Root File Staging Folder,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Claims: New Audience Field,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,AVGIF & MAXIF Functions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Outreach Target Parity,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Precision Rules for Impurity Testing,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,ICH E2D Additional Study Types,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Identify Blocking References for Object Record Deletion,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Site Timezone in OpenData Clinical,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enhanced Error Handling on Expected Documents Action,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clearer Error Messaging for Configuration,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Process Monitor: New Metrics & Chart Options,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Move CTN Setting to New Disclosures Settings,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Validation Criteria: Inactivate EMA.D.1-2,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Vault File Manager: Exclude Parent Folders When Downloading Folders,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Icons,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Provision Standard Component Document Relationship Type,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Create Excluded Record from Resolved Data Change Request,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,China eCTD 3.2 (NMPA) Specification 1.1,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Training Focus Time,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Active Dossier: Standard Template for Medical Devices,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Test Method Field,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Hide Pre-EDL Refactor Actions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PVA: Event Based Activities,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Making Market Ship Decision,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,RIM-Medical Connection: Product Data Transfer,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Wave-Based Curriculum Prerequisites,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Curriculum Outcomes: Add or Remove User From Groups,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Simplified Criteria Definition,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Active Dossier: Replaced Status,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PSMF Binder Periodic Reviews,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,E2B Readable Rendition: Adverse Event & Causality Organization,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Precision Enhancements for the Accessibility Check in Quick Check Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Unified RIM Validation Logic for Submission & RLCP Publishing,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety Distribution & Job Logging Improvements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Design Data Builder: Save Last Page User Was On,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Read & Understand Workflows Excluded from Auto-Started Workflow Limit,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Operational Results Renamed to Method Parameters,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PMDA: Updating Assessments Following Global Approval,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Checklists: Show Workflow Banner for Available Tasks,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Constraining Roles for Validation Team Assignments,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Multi-Stage Testing for Dissolution & Content Uniformity Tests,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data Builder: Not Applicable Behavior Update,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Login Audit History: My Vaults Page,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Apply Template EDL Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Supplier Risk Assessment: Multiply Scoring Method,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Veeva Safety: Integration Stats for Safety Connections,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Change Plan: Required Attribute for Current Due Date Field Is Now Editable,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,RIM-Medical Connection: Document Exchange,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Closing Items with Action Triggers,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Study Aliases,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Prevent Risk Measure Duplication on Local Implementation Strategies,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Medical-CRM Connection: CLM Integration,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Create Outbound Package: Allow All Accessible Vaults,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Object Actions: Available in All Lifecycle States Configurability,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Standalone CAPA,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Design Data Builder: Search Capability,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,VPS: EU MIR Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PromoMats-CRM Connection: CLM Integration,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Singapore eCTD 3.2 (HSA) Specification 1.1,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EUDAMED XSD Version 3.0.25 Support,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Terminate PVA Documents Action,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Import Case Series,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Expandable Contact Search Results,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quality-RIM Connection: Materials Product Data,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Product Management Service (PMS) Submission for Pack Size Details,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Payments: Tax Tracking,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Allow Documents to Be Selected for Sample Result Entry Test Definitions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,WHODrug IDMP MPID Coding,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Word Formatted Outputs: Display Rich Text Values Using Microsoft Word Font,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Admin Option for Overlays & Signature Pages in Viewable Renditions Download from External Viewer,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,OpenData Clinical Prior Values Tracking,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,NMPA: Snapshot Recoded Products,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Information Component Calculation for Signal Detection,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EAEU R.022 Archive & Viewing (v1.1.0),,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Allow Custom Renditions on CrossLink Documents,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PromoMats: Layout Profile Detail View for CRM Rendition Settings,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,MedTech: Default Filters for Product & Product Variants,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-EDC Connection: Send Additional SAE Reporter Details to Safety,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Merge Persons Action,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data Builder: Respect Default Values,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Improved Search for User Administration,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Manufacturer Data Management Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Execute Reports with Columns with Field Level Security,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clearer Error Handling for EBGM Calculations,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Station Manager Account Password Expiration Improvements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Aggregate Functions in Report Formulas,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,FDA E2B(R3) Standard Reporting Rule Version 4,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,View Parameter Enhancements for Complex Reporting,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Migration Rendition Reuse for PDFs,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Study Training Matrix Builder: Remove Sections,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clinical Operations-EDC Connection: Editable Connection Details,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Template Activities,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Support Created By & Last Modified By in Workflow & Lifecycle Formulas,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,External Collaboration: Reassign Tasks,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Active Dossier: Provide Reason When Editing ADID Relationships,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,VPS: UK Adverse Event Reporting,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Mode of Entry Can Be Updated,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Medical: Layout Profile Detail View for CRM Rendition Settings,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,"Test Definition Builder: For Sample Result Entry Variations, Only Allow Valid Setup",,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Regulatory Reference Management Configurations Admin Component,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Comment Deletion Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Addition of Never Require QC Option for Risk-Based QC,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Curriculum Outcomes: Add Learner Role to Person,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enhanced Audit Storage,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Duplicate Detection Results Log & Usability Improvements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Regulatory Check for Change Controls,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Product Management Service (PMS) Data in IDMP Viewer,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Support for Defaulting Event in Impact Assessment Report Prompt,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Efficiencies for SDR Item Creation & Management,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Distributed Sites Attachment,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Result Replicates & Impurity Testing,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,MedDRA Bulk Recode for Administrative Maintenance,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Disclosures: EU Notification Forms with Prepopulation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clinical Operations-EDC Connection: Identify Programmatic Protocol Deviations,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Share Disposition,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,NMPA E2B(R3): Export Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Workbench Report Status,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,VPS Data Mapping Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-EDC Connection: Handling Product Indication,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Add Signature Page to Document Snapshots,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-EDC Connection: Automated Follow-up Management,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quiz: Support Multiple Choice Drop-Down Questions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Automatic Safety Distributions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quality Relationships Panel: Bi-Directional Document Relationships Enhancement,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PSMF Logbook Governance,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Added Standard First Day of the Month Schedule,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data & Test Definition Builder: Keyboard Navigation & Shortcut Support,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Scientific Statements: Auto-Linking Settings,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,New Application: Veeva HACCP,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Submissions Archive Harmonization for eCTD 4.0 Keywords Optimization,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Stability Summary Report: Grouping Logic for Multiple Test Definition Versions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Combined Excel Export for Report Sets,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Company Product Browser Search & Filter,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,QRM: Risk Builder Usability Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Migrated Follow-Up Cases for Aggregate Reports,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Follow-up Case Compare: Narrative Selection,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Vigiflow E2B(R3): Date Formatting,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Holiday & Holiday Schedule as Configuration Data,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Deterministic Aliquot Actions: Create New Version Enhancement,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data Builder: Edit Spec Data Criteria,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Update Minimum Supported Android Operating System Version for Station Manager to Android 14,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Standardization of User Access and Time Metrics on Cases,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Japan Postmarket Device & Regenerative Reporting,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Phone Number Field Control,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Remove EDL Automation Setting,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Removed Site Connect Document View for Obsolete & Deleted State Types,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Validation Team Warning Controls,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,eCTD 4.0 Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Study Training-Clinical Operations Connection: SCORM File Transfer,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Updated Seeding Logic for Closed Issues in Monitoring,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Veeva AI for Safety: Narrative Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EDL Automation Respects Excluded Lifecycle States,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enhanced Reviewer Summary & Metadata Check for Content Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Workbench PADER Simplified Registration Number Filtering,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Update to Select All Within Create Related Records Wizard,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Support CrossLink Source Type & Renditions on CrossLink for Publishing Source,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Automated Inbound PVA Activity Email Processing,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Custom Terminology & Learning for Quick Check Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Proposed APQR-to-APQR Field Inheritance,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Create GCP from AD: Clinical & Nonclinical Study & Indication Support,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Reusable Excel Templates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Impact Assessment Report Auto-Split Prompts,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Signal Case Series Dashboard Refresh,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Picklist Order Type,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Support Multiple Reviewers During PSMF Periodic Review,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Statistical Data Handling Based on MedDRA Version,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,26R1 Safety Suite Standardization,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Phone Number Field Search,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Outbound Email Domain: Send Using Root Domain,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,View All Workflow Participants,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Spec Data Builder: Spec Data Defaulted for Criteria Set,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Prevent Actions from Copying Roll-Up Fields,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Curriculum Outcomes: Add Application Role Without Permission Set,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Complaint Agent & Deviation Agent: Generate Narrative Summary & Ask Questions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Automatic Validation Status Recovery,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Design Data Builder: View Version History,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Create Inactive Users in Migration Mode,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quiz Scoring Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Clinical Operations Text Updates for Site Connect,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Vault File Manager: Reduce Frequency of Auto-Refresh API Calls,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Workflow Due Date for All Workflow Reports,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,US eCTD 4.0 Publishing & Validation v1.8,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Assess Local Activities,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Device Case Assessments & ICSR Transmissions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Milestone Planning View,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quality-RIM Connection: Material Change Object Type on Regulatory Change Item,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Milestone Document Panel,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Multi-Source Signal Data Consolidation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Certificate of Analysis Field on Spec Execution,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,SDV Status Support for Subject Visits,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Case Product Device Code Import for Tabular Data Format,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Disclosures: Flexible Start Timing on Disclosure Rules & Re-order Arms,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Create Event Details Support for Event Product & Event Indication Fields,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Improved PDF Text Extraction,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Activity Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quality Team Section: Display Minimum & Maximum User Requirements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Prevent Creation of Select Quality Configurations for Inapplicable Components,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Provision Standard Field on APQR,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Active Dossier: Processing Status & Issues Tracking,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Match Document Mode Pinned Filters,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Reference Lookups Availability in Business Admin,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Instant SQL Preview for Views,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,WHODrug External Product Auto-Coding,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EAEU Validation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Rules Based Narratives: Updates,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Updates to Calculated Method Parameter Results,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,External Assessments for Clinical Trial Cases,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Error Message Update for Team Assignment URS Records,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Site Home User Interface Improvements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Calculations & Statistical Data Creation for VAERS,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Step Change: Full Attachment Names,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Update Local Regulatory Information: Limit to Activities,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Direct Data API: Publish Files at Vault Time,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PromoMats-CRM Connection: Country Integration,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Stability Study CSV Export,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Application Interface Side Panel Improvements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Claims: Text Asset Auto-Linking by Object Type,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Active Dossier: Filter by ADID Relationships,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,"Refine Auto-Populate Last Subject Treated, Started Follow-Up, & Out Milestone Logic",,Record Removed,Entire Record Removed,
+Veeva Vault RIA,PMDA: Unexpected Adverse Event Justification,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EUDAMED Submission Generation: Max Object Limit Enforcement,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Improved Site Home Access for Study Persons with Future Start Date,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Signal Calculations for Product Family Combinations,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-RIM Connection: Updated Product Dose Form Syncing,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enable TRIA for All in Quality Vaults,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Changes to Material Object,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Medical Assessment: Flexible Rank Columns,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Document Change Control: Display Count of Unique Associated Documents,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Medical Portal: Subscriptions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Safety-EDC Connection: Handling Child Details in Pregnancy Cases,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Milestone Document Exchange Grid Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Site Home & Document Exchange Navigation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Test Definition Builder: Inline Field Validation,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Site Automated Enrollment Milestone Locking,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Subject Group & SDV Status in Monitored Subject Data,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,EDL Override Update,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Portal Subscriptions,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Content Agent Is Now More Veeva-Aware,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Veeva AI for Safety: Intake Agent,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enhanced Default Values for Field Rules,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quality Automated Language Translations,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,FAQ Quick Search,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Enhanced Multilingual Record Search,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Literature Integration to PubMed Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,External Response Collaboration: External Collaborator Control,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Field Access Updates for Potential Matches Page,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Support for Report Filter Aliases in Multiple Language,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Milestone Dependency Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Standard of Care Tracking,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,New Language Picklist Options,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Process Monitor: Document Lifecycles,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Quality-Safety Connection: User Exception Item Enhancement,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,"Word Formatted Output: Tokens for Object Label, Object Description, Relationship Label & Field Description",,Record Removed,Entire Record Removed,
+Veeva Vault RIA,5 Whys User Interface Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Material Qualification Check,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Ad Hoc Calculations Results Expiry,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Training Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Modular Content: Additional Document Info Panel Enhancements,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Workflow Activity Log,,Record Removed,Entire Record Removed,
+Veeva Vault RIA,Automatic Inbox Item Creation for Adverse Event Report Documents,Default Impact,Modified,Visible to All Users,Visible to Admins Only
+Veeva Vault RIA,Automatic Inbox Item Creation for Adverse Event Report Documents,Feature Description,Modified,This feature introduces automatic Inbox Item creation following upload of a Case > Source > Adverse Event Report document type to the Library.,Vault can now automatically create Inbox Items following upload of a Case > Source > Adverse Event Report document type to the Library.
+Veeva Vault RIA,Automatic Inbox Item Creation for Adverse Event Report Documents,Enablement Setting,Modified,Auto-on,Admin Checkbox
+Veeva Vault RIA,Automatic Inbox Item Creation for Adverse Event Report Documents,Application,Modified,Veeva AI for Safety,Safety
+Veeva Vault RIA,Automatic Inbox Item Creation for Adverse Event Report Documents,Unique ID,Modified,26R1-0Q3079,26R2-0R7074
+Veeva Vault RIA,Automatic Inbox Item Creation for Adverse Event Report Documents,Release Note,Modified,Link,
+Veeva Vault RIA,Automatic Inbox Item Creation for Adverse Event Report Documents,GxP Risk,Modified,High,Low
+QualityOne & RegulatoryOne,Registration Objective Limit,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,Teams Bulk Management: Lifecycle State Filtering & Change Summary Enhancements,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,Teams: Advanced User Search,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,Teams: User Name Hovercard,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,Scheduled Job for Create Binder Action,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,HACCP Flow Diagram: Update to Label of Hazard Significance Filtering Option,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,Clone Project: Sections Ordering,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,HACCP Flow Diagram: Intermediate State for Connections,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,HACCP Flow Diagram: Display Risk Category Field as Clickable Link,,Record Added,,Entire Record Added
+QualityOne & RegulatoryOne,Process Step Connection Updates,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,Print Record Support for Comments,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,External Collaboration Management: Reassign External Collaborator,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,Customize Entry Action,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,Support up to 5 External Collaborators for Document External Collaboration,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,Exclude Matched Documents when Creating Dossier Documents from Templates,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,Manage Process Step Groups within the Flow Diagram,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,HACCP Flow Diagram: Filter Hazard Analyses Section by Hazard Significance,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,Increase Batch Size Limit for Master Data Deletion,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,HACCP Flow Diagram: Material Step Enhancements,,Record Removed,Entire Record Removed,
+QualityOne & RegulatoryOne,Support Filtering on Managing Registrations from Events,,Record Removed,Entire Record Removed,
