@@ -60,7 +60,6 @@ screenshots/
 <img width="674" height="476" alt="image" src="https://github.com/user-attachments/assets/2282b860-246a-4c99-a670-3e3b820e8e82" />
 
 
-
                 
 
 
